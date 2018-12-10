@@ -1,0 +1,45 @@
+
+*{
+	margin:0;
+}
+
+#master h1{
+	text-align:center;
+	font-family:Lucida Sans Unicode; 
+	position:relative;
+	top:80px;
+	width:100%;
+}
+
+.container{
+	display:block;
+	position:relative;
+	left:200px;
+	float:left;
+	width:76%;
+	margin:1%;
+	margin-top:4%;
+}
+
+.engine{
+	width:20px;
+	height:15px;
+	border:1px solid #000;
+}
+
+.margin{
+	background-color:rgba(1, 50, 67, 1);
+	display:block;
+	float:left;
+	width:11%;
+	height:100vh;
+	margin-top:-1.93%;
+}
+
+footer{
+	position:absolute;
+	text-align:center;
+	width:100%;
+	top:90vh;
+}
+
